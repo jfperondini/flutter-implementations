@@ -1,9 +1,8 @@
-# Flutter Study
-
-<h1 align="center">
+<h1>
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" />
 </h1>
 
+# Flutter Study
 A study about Flutter
 
 ## Getting Started
@@ -19,7 +18,7 @@ This project is a starting point for a Flutter application.
 
 ### Features
 
-- [x]Auto Complete
+- [ ] Auto Complete
 - [x] Cadastro de cliente
 - [x] Cadastro de produtos
 - [x] Cadastro de produtos
