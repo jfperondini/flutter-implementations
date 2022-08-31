@@ -7,23 +7,14 @@ A study about Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This study repository is a Flutter application.
 
-1. 
+1. Auto Complete
 3. Hive/Sqlite
 4. Dashboard
 5. Forms
 6. Dio/Http
 7. Pdf
-
-### Features
-
-- [ ] Auto Complete
-- [x] Cadastro de cliente
-- [x] Cadastro de produtos
-- [x] Cadastro de produtos
-- [x] Cadastro de produtos
-
 
 ### Command
 
