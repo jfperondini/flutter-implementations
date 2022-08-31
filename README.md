@@ -12,49 +12,30 @@ This project is a starting point for a Flutter application.
 
 - [Dashboard]
 
-
 - [Formulario ](https://github.com/jfperondini/flutter_study/tree/master/form)
 
 - [Dashboard]
 
 - [Pdf]
 
+### Flutter Atalhos
 
-
-| Comando | Descrição |
-| --- | --- |
-| git status | Lista de todos os arquivos modificados ou novos |
-| git diff | Mostra as diferenças do arquivo que não foram preparadas |
-
-### Flutter Atalhos 
-flutter clean 
-fluttler pub 
-flutter upgrade
-flutter channel stable
-flutter config --enable-windows-desktop
-flutter config --enable-android
-flutter config --enable-web
-
-criar um projeto 
-flutter create c.
-
-depois dar um run quando criar o projeto 
-flutter run
-
-rodar o programa em
-flutter run -d chrome
-flutter run -d windows-desktop
-flutter run -d android
-
-lista todos os pubspeck q tem ou n tem null safety
-flutter pub outdated --mode=null-safety
-
-atualizar todos os pubspeck q tem null safety
-flutter pub upgrade --null-safety
-
-
-compilar
-flutter build web --release
-
-
-//>add dependecy
+| Command | Description |
+| ------- | --------- |
+| flutter clean | Limpar o diretorio |
+| fluttler pub get | Instalar todos os pubspeck |
+| flutter upgrade | fazer um upgrade |
+| flutter channel stable | mudar o canal |
+| flutter config --enable-web | enable from web |
+| flutter config --enable-android | enable from android |
+| flutter config --enable-windows-desktop | enable from desktop |
+| flutter create c. | create a project flutter |
+| flutter run| depois dar um run quando criar o projeto |
+| flutter run -d chrome | run for chrome |
+| flutter run -d windows-desktop | run for windows |
+| flutter run -d android | run for android |
+| flutter pub outdated --mode=null-safety | lista todos os pubspeck q tem ou n tem null safety |
+| flutter build web | build for web |
+| flutter build windows-desktop | build for windows-desktop |
+| flutter build android | build for android |
+| >add dependecy | Addicionar uma dependencia no vscode|
