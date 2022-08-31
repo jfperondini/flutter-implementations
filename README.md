@@ -11,15 +11,12 @@ This project is a starting point for a Flutter application.
 
 
 
-# Flutter Atalhos 
-limpar o diretorio
-flutter clean 
+### Flutter Atalhos 
+limpar o diretorio - flutter clean 
 
-instalar todos os pubspeck
-fluttler pub 
+instalar todos os pubspeck - fluttler pub 
 
-//fazer um upgrade 
-flutter upgrade
+fazer um upgrade  - flutter upgrade
 
 mudar o canal 
 flutter channel stable
