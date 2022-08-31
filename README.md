@@ -6,22 +6,31 @@ A study about Flutter
 
 This project is a starting point for a Flutter application.
 
-- [Form ](https://github.com/jfperondini/flutter_study/tree/master/form)
+- [Auto_Complete]
+
+- [Banco]
+
+- [Dashboard]
+
+
+- [Formulario ](https://github.com/jfperondini/flutter_study/tree/master/form)
+
+- [Dashboard]
+
+- [Pdf]
 
 
 
+| Comando | Descrição |
+| --- | --- |
+| git status | Lista de todos os arquivos modificados ou novos |
+| git diff | Mostra as diferenças do arquivo que não foram preparadas |
 
 ### Flutter Atalhos 
-limpar o diretorio - flutter clean 
-
-instalar todos os pubspeck - fluttler pub 
-
-fazer um upgrade  - flutter upgrade
-
-mudar o canal 
+flutter clean 
+fluttler pub 
+flutter upgrade
 flutter channel stable
-
-criar api plataformas
 flutter config --enable-windows-desktop
 flutter config --enable-android
 flutter config --enable-web
