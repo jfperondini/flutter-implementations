@@ -6,17 +6,8 @@ A study about Flutter
 
 This project is a starting point for a Flutter application.
 
-- [Auto_Complete] (https://github.com/jfperondini/flutter_study/tree/master/auto_complete)
+1. Auto Complete
 
-- [Banco] (https://github.com/jfperondini/flutter_study/tree/master/banco)
-
-- [Dashboard] (https://github.com/jfperondini/flutter_study/tree/master/dashboard)
-
-- [Formulario ](https://github.com/jfperondini/flutter_study/tree/master/form)
-
-- [Json] (https://github.com/jfperondini/flutter_study/tree/master/json)
-
-- [Pdf] (https://github.com/jfperondini/flutter_study/tree/master/pdf)
 ### Flutter Atalhos
 
 | Command | Description |
