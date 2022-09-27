@@ -15,3 +15,4 @@ This study repository is a Flutter application.
 5. Forms
 6. Dio/Http
 7. Animated List
+8. Password Validade
