@@ -16,3 +16,4 @@ This study repository is a Flutter application.
 6. Dio/Http
 7. Animated List
 8. Password Validade
+9. Project Basic
