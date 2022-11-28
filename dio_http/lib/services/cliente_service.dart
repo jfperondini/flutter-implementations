@@ -3,10 +3,10 @@ import '../models/cliente_model.dart';
 
 const url_cliente = 'http://192.168.2.100:9001/cliente/';
 
-class JsonPlaceholderServiceCliente {
+class ClienteService {
   final iHttpClient client;
 
-  JsonPlaceholderServiceCliente(this.client);
+  ClienteService(this.client);
 
   Future<List<ClienteModel>> getClienteTodos() async {
     final body = await client.get(url_cliente);
